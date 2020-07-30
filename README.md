@@ -1,4 +1,4 @@
-#Simple Web Application
+# Simple Web Application
 
 This is a simple web application using Python Flask and MySQL database. 
 
